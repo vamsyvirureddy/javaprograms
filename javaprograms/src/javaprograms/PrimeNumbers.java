@@ -19,6 +19,7 @@ public class PrimeNumbers {
 			System.out.println("helloworld");
 			System.out.println("Viagra");
 		}
+		System.out.println("");
            System.out.println("helloo this is java progarm");
 	}
 
