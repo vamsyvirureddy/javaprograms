@@ -20,7 +20,6 @@ public class PrimeNumbers {
 			System.out.println("Viagra");
 			System.out.println("vamshi change ");
 		}
-		System.out.println("");
            System.out.println("helloo this is java progarm");
 	}
 
