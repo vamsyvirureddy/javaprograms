@@ -21,6 +21,8 @@ public class PrimeNumbers {
 			System.out.println("vamshi change ");
 		}
            System.out.println("helloo this is java progarm");
+           System.out.println("This Is Anvesh");
+           PrimeNumbers ("1-10");
 	}
 
 }
